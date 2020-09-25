@@ -1,0 +1,3 @@
+[submodule "incomi"]
+	path = incomi
+	url = https://github.com/hosodr/incomi.git
